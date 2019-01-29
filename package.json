@@ -1,6 +1,6 @@
 {
-  "name": "@loreena/gulp-made-easy",
-  "version": "0.2.10",
+  "name": "@alkemy_ecommerce/gulp-made-easy",
+  "version": "1.0.0",
   "description": "A ready-made gulp that only needs config setup to work",
   "directories": {
     "doc": "docs"
@@ -29,15 +29,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lorenaramonda/gulp-made-easy.git"
+    "url": "git+https://github.com/alkemyecommerce/gulp-made-easy.git"
   },
   "keywords": [
     "gulp"
   ],
   "author": "Lorena Ramonda <lorena@ramonda.me>",
+  "contributors": [
+    "Fabio Plateroti <fabio.plateroti@alkemy.com>"
+  ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lorenaramonda/gulp-made-easy/issues"
+    "url": "https://github.com/alkemyecommerce/gulp-made-easy/issues"
   },
-  "homepage": "https://github.com/lorenaramonda/gulp-made-easy#readme"
+  "homepage": "https://github.com/alkemyecommerce/gulp-made-easy#readme"
 }

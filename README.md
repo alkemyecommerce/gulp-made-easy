@@ -6,8 +6,8 @@ Supports sass/scss and js.
 ## Installation
 
 ```
-npm install @loreena/gulp-made-easy --save-dev
-cp node_modules/@loreena/gulp-made-easy/gulp.config.js ./
+npm install @alkemy_ecommerce/gulp-made-easy --save-dev
+cp node_modules/@alkemy_ecommerce/gulp-made-easy/gulp.config.js ./
 ```
 
 This will install and copy the configuration file into the root of your project.
@@ -16,8 +16,8 @@ Add this scripts to your package.json:
 
 ```
 "scripts": {
-    "dev": "cross-env NODE_ENV=development gulp --cwd --gulpfile ./node_modules/@loreena/gulp-made-easy/gulpfile.js",
-    "build": "cross-env NODE_ENV=production gulp build --cwd --gulpfile ./node_modules/@loreena/gulp-made-easy/gulpfile.js"
+    "dev": "cross-env NODE_ENV=development gulp --cwd --gulpfile ./node_modules/@alkemy_ecommerce/gulp-made-easy/gulpfile.js",
+    "build": "cross-env NODE_ENV=production gulp build --cwd --gulpfile ./node_modules/@alkemy_ecommerce/gulp-made-easy/gulpfile.js"
   }
 ```
 
