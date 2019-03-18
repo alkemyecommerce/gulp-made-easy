@@ -1,6 +1,6 @@
 {
   "name": "@alkemyecommerce/gulp-made-easy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A ready-made gulp that only needs config setup to work",
   "directories": {
     "doc": "docs"
